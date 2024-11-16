@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "poc-client",
   "private": true,
   "scripts": {
     "build": "turbo build",
